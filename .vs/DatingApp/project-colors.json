@@ -5,7 +5,12 @@
       "ProjectGuid": "46689e1b-b9fc-42b6-b9e9-71d0c295dfb7",
       "DisplayName": "API",
       "ColorIndex": 0
+    },
+    "4a58b3fd-bc88-4920-9b59-b2c4bca25e3b": {
+      "ProjectGuid": "4a58b3fd-bc88-4920-9b59-b2c4bca25e3b",
+      "DisplayName": "Client",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
