@@ -89,7 +89,7 @@ namespace API.Services
         //        .ToListAsync();
         //}
 
-        public async  Task<MemberDto> GetMemberAsync(string username)
+        public async Task<MemberDto> GetMemberAsync(string username)
         {
             return await _context.Users
                 .Where(x => x.UserName == username)
