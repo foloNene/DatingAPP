@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    public class MessagesController: BaseApiController
+    public class MessagesController : BaseApiController
     {
         private readonly IUserRepository _userRepository;
         private readonly IMessageRepository _messageRepository;
@@ -27,7 +27,7 @@ namespace API.Controllers
         {
             var username = User.GetUsername();
 
-            if(username == createMessageDto.RecipientUsername.ToLower())
+            if (username == createMessageDto.RecipientUsername.ToLower())
             {
                 return BadRequest("You can't send message to your self");
             }
@@ -80,6 +80,43 @@ namespace API.Controllers
             var currentUsername = User.GetUsername();
 
             return Ok(await _messageRepository.GetMessageThread(currentUsername, username));
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> DeleteMessage(int id)
+        {
+            var username = User.GetUsername();
+
+            var message = await _messageRepository.GetMessage(id);
+
+            if (message.SenderUsername != username && message.RecipientUsername != username)
+            {
+                return Unauthorized();
+            }
+
+            if (message.SenderUsername == username) 
+            {
+                message.SenderDeleted = true;
+            }
+
+            if (message.RecipientUsername == username)
+            {
+                message.RecipientDeleted = true;
+            }
+
+            if (message.SenderDeleted && message.RecipientDeleted)
+            {
+                _messageRepository.DeleteMessage(message);
+            }
+
+            if (await _messageRepository.SaveAllAsync())
+            {
+                return Ok();
+            }
+
+            return BadRequest("Problem deleting the messsage");
+
+
         }
 
 

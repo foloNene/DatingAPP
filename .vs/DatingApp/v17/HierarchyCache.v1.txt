@@ -1,0 +1,220 @@
+﻿++Solution 'DatingApp' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:DatingApp.sln
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>357
+++Dependencies
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>356
+++Properties
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\properties\
+++Controllers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\
+++AccountController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\accountcontroller.cs
+++BaseApiController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\baseapicontroller.cs
+++BuggyController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\buggycontroller.cs
+++LikesController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\likescontroller.cs
+++UsersController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\userscontroller.cs
+++WeatherForecastController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\weatherforecastcontroller.cs
+++Data
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\data\
+++DataContext.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\data\datacontext.cs
+++Seed.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\data\seed.cs
+++UserSeedData.json
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\data\userseeddata.json
+++DTOs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\
+++LikeDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\likedto.cs
+++LoginDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\logindto.cs
+++MemberDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\memberdto.cs
+++MemberUpdateDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\memberupdatedto.cs
+++MessageDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\messagedto.cs
+++PhotoDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\photodto.cs
+++RegisterDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\registerdto.cs
+++UserDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\userdto.cs
+++Entities
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\entities\
+++AppUser.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\entities\appuser.cs
+++Message.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\entities\message.cs
+++Photo.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\entities\photo.cs
+++UserLike.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\entities\userlike.cs
+++Errors
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\errors\
+++Extensions
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\extensions\
+++ApplicationServiceExtensions.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\extensions\applicationserviceextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\extensions\claimsprincipalextensions.cs
+++DateTimeExtensions.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\extensions\datetimeextensions.cs
+++IdentityServiceExtension.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\extensions\identityserviceextension.cs
+++Helpers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\
+++AutoMapperProfiles.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\automapperprofiles.cs
+++CloudinarySettings.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\cloudinarysettings.cs
+++HttpExtensions.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\httpextensions.cs
+++LikesParams.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\likesparams.cs
+++LogUserActivity.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\loguseractivity.cs
+++PagedList.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\pagedlist.cs
+++PaginationHeader.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\paginationheader.cs
+++PaginationParams.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\paginationparams.cs
+++UserParams.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\userparams.cs
+++Interfaces
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\
+++ILikeRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\ilikerepository.cs
+++IMessageRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\imessagerepository.cs
+++IPhotoService.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\iphotoservice.cs
+++ITokenService.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\itokenservice.cs
+++IUserRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\iuserrepository.cs
+++TokenService.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\interfaces\tokenservice.cs
+++MiddleWare
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\middleware\
+++Migrations
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\
+++Services
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\services\
+++LikesRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\services\likesrepository.cs
+++MessageRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\services\messagerepository.cs
+++PhotoService.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\services\photoservice.cs
+++UserRepository.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\services\userrepository.cs
+++appsettings.json
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\appsettings.json
+++Program.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\program.cs
+++WeatherForecast.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\weatherforecast.cs
+++No service dependencies discovered
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>358
+++Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:analyzers
+++Frameworks
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:frameworks
+++Packages
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:packages
+++launchSettings.json
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\properties\launchsettings.json
+++ApiException.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\errors\apiexception.cs
+++ExceptionMiddleware.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\middleware\exceptionmiddleware.cs
+++20230522191014_intialMigration.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230522191014_intialmigration.cs
+++20230523175502_UserPasswordAdded.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230523175502_userpasswordadded.cs
+++20230526190802_ExtendedUserTable.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230526190802_extendedusertable.cs
+++20230526213207_seedTable.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230526213207_seedtable.cs
+++20230616210231_LikeEntityAdded.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230616210231_likeentityadded.cs
+++20230619182553_MessageEntityAdded.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230619182553_messageentityadded.cs
+++DataContextModelSnapshot.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\datacontextmodelsnapshot.cs
+++appsettings.Development.json
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.10\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\sdk\6.0.302\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.7\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (6.1.1)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>371
+++CloudinaryDotNet (1.20.0)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>377
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.10)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>375
+++Microsoft.EntityFrameworkCore (6.0.10)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>369
+++Microsoft.EntityFrameworkCore.Design (6.0.10)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>372
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.10)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>370
+++Microsoft.EntityFrameworkCore.Tools (6.0.10)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>376
+++Swashbuckle.AspNetCore (6.2.3)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>374
+++System.IdentityModel.Tokens.Jwt (6.24.0)
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:>373
+++20230522191014_intialMigration.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230522191014_intialmigration.designer.cs
+++20230523175502_UserPasswordAdded.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230523175502_userpasswordadded.designer.cs
+++20230526190802_ExtendedUserTable.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230526190802_extendedusertable.designer.cs
+++20230526213207_seedTable.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230526213207_seedtable.designer.cs
+++20230616210231_LikeEntityAdded.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230616210231_likeentityadded.designer.cs
+++20230619182553_MessageEntityAdded.Designer.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\migrations\20230619182553_messageentityadded.designer.cs
+++CreateMessageDto.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\dtos\createmessagedto.cs
+++MessagesController.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\controllers\messagescontroller.cs
+++MessageParams.cs
+i:{46689e1b-b9fc-42b6-b9e9-71d0c295dfb7}:c:\users\user\desktop\project\datingapp\api\helpers\messageparams.cs
